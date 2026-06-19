@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Kerimli Meybi
 
-<!--
-**kerimovmeybi-bit/kerimovmeybi-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer from Ukraine 🇺🇦
 
-Here are some ideas to get you started:
+I am passionate about building modern, responsive and user-friendly web applications using React, TypeScript and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+* React
+* TypeScript
+* JavaScript
+* Vite
+* Redux Toolkit
+* HTML5
+* CSS3 / SCSS
+* Git & GitHub
+
+## 📂 Featured Projects
+
+### 🔥 Portfolio Website
+
+Personal portfolio built with React and Vite.
+
+### ✅ Task Manager Pro
+
+Task management application built with React, TypeScript and Vite.
+
+### 📅 Booking App
+
+Booking platform with responsive UI and modern frontend architecture.
+
+### ⚖️ HiLegal Website
+
+Responsive website for a law company built with HTML, CSS, SCSS and JavaScript.
+
+## 🌐 Links
+
+* Portfolio: https://my-portfolio-omega-ashy-62.vercel.app
+* GitHub: https://github.com/kerimovmeybi-bit
+* LinkedIn: https://www.linkedin.com/in/meybi-kerimli-4287983a2/
+* Telegram: https://t.me/Kerimov21
+
+## 📈 Current Goals
+
+* Improve React and TypeScript skills
+* Gain commercial development experience
+* Contribute to real-world projects
+* Start a professional career as a Frontend Developer
+
+⭐ Always learning and building new things.
