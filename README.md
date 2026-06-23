@@ -35,7 +35,7 @@ Responsive website for a law company built with HTML, CSS, SCSS and JavaScript.
 
 ## 🌐 Links
 
-* Portfolio: https://my-portfolio-omega-ashy-62.vercel.app
+* Portfolio: https://my-portfolio-41u6.vercel.app
 * GitHub: https://github.com/kerimovmeybi-bit
 * LinkedIn: https://www.linkedin.com/in/meybi-kerimli-4287983a2/
 * Telegram: https://t.me/Kerimov21
